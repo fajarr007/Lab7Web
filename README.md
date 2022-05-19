@@ -15,7 +15,7 @@ Untuk menjalankan web server dari menu XAMPP Control<br>
 ![p](gambar/pertama.png)<br>
 
 **Memulai PHP**<br>
-Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)<br>
+Buat folder *lab7_php_dasar* pada root directory web server (d:\xampp\htdocs)<br>
 ![p](gambar/kedua.png)<br>
 
 
