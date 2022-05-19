@@ -12,6 +12,7 @@ Unduh XAMPP dari *https://www.apachefriends.org/download.html* dan pilih versi p
 
 **Menjalankan Web Server**<br>
 Untuk menjalankan web server dari menu XAMPP Control<br>
+![p](gambar/pertama.png)
 
 
 
