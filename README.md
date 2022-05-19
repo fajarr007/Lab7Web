@@ -26,6 +26,10 @@ Buat file baru dengan nama **php_dasar.php** pada directory tersebut. Kemudian b
 Kemudian untuk mengakses hasilnya melalui URL: *http://localhost/lab7_php_dasar/php_dasar.php*
 ![p](gambar/foto3.png)<br>
 
+**Menambahkan Variable**<br>
+![p](gambar/foto4.png)<br>
+
+
 
 
 
