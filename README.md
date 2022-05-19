@@ -22,7 +22,9 @@ Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL
 
 **PHP Dasar**<br>
 Buat file baru dengan nama **php_dasar.php** pada directory tersebut. Kemudian buat kode seperti berikut.<br>
-![p](gambar/foto2.png)
+![p](gambar/foto2.png)<br>
+Kemudian untuk mengakses hasilnya melalui URL: *http://localhost/lab7_php_dasar/php_dasar.php*
+![p](gambar/foto3.png)<br>
 
 
 
