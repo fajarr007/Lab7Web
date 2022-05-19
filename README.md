@@ -18,7 +18,12 @@ Untuk menjalankan web server dari menu XAMPP Control<br>
 Buat folder *lab7_php_dasar* pada root directory web server (d:\xampp\htdocs)<br>
 ![p](gambar/kedua.png)<br>
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: *http://localhost/lab7_php_dasar/*<br>
-![p](gambar/foto1.png)
+![p](gambar/foto1.png)<br>
+
+**PHP Dasar**<br>
+Buat file baru dengan nama **php_dasar.php** pada directory tersebut. Kemudian buat kode seperti berikut.<br>
+![p](gambar/foto2.png)
+
 
 
 
