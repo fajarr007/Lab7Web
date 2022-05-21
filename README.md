@@ -28,6 +28,8 @@ Kemudian untuk mengakses hasilnya melalui URL: *http://localhost/lab7_php_dasar/
 
 **Menambahkan Variable**<br>
 ![p](gambar/foto4.png)<br>
+![p](gambar/foto5.png)<br>
+
 
 
 
