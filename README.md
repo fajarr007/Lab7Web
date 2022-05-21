@@ -31,7 +31,7 @@ Kemudian untuk mengakses hasilnya melalui URL: *http://localhost/lab7_php_dasar/
 ![p](gambar/foto5.png)<br>
 
 **Predefine Variable $_GET**<br>
-![p](gambar/foto6.png)
+
 
 
 
