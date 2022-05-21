@@ -30,9 +30,10 @@ Kemudian untuk mengakses hasilnya melalui URL: *http://localhost/lab7_php_dasar/
 ![p](gambar/foto4.png)<br>
 ![p](gambar/foto5.png)<br>
 
-**Predefine Variable $_GET**
-Sebelum membuat *Predefine Variable $_GET* kita harus membuat file baru, lalu kita mulai mmembuatnya;
-![p](gambar/foto6.png)
+**Predefine Variable $_GET**<br>
+Sebelum membuat *Predefine Variable $_GET* kita harus membuat file baru, lalu kita mulai mmembuatnya;<br>
+![p](gambar/foto6.png)<br>
+
 
 
 
